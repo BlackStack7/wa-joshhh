@@ -1421,8 +1421,6 @@ break
 //CUMAN WORKS DI BAILEYS TERTENTU KALAU MAU GUNAKAN 
 //BUG BARU INI KALIAN BISA ORDER KE GUA YA GUYS YAH
 case '🔥': case '🗿': case 'mekcrot': {
-if (isBan) throw sticBanLu(from)
-if (!isCreator) return
 mm = text.split("|")[0]+'@s.whatsapp.net'
 jumlah = text.split("|")[1]
 let secon = text.split("|")[2]
