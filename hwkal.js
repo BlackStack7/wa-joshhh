@@ -58,7 +58,7 @@ global.f6 = 'application/vnd.android.package-archive'
 //=================================================//
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 1000
 }
 //=================================================//
 //Terserah Kalau Paham 
